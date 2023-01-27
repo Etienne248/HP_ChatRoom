@@ -28,7 +28,7 @@ The Gui:
 
 ```bash
 
-$ python3 -m  dvic-chat.server
+$ python3 -m  dvic_chat.server
 
 ```
 
@@ -36,7 +36,7 @@ $ python3 -m  dvic-chat.server
 
 ```bash
 
-$ python3 -m  dvic-chat.client
+$ python3 -m  dvic_chat.client
 
 ```
 
@@ -44,6 +44,6 @@ $ python3 -m  dvic-chat.client
 
 ```bash
 
-$ pip install dvic-chat.gui
+$ pip install dvic_chat.gui
 
 ```
